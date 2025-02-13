@@ -21,3 +21,5 @@ let state;
 
 console.log(typeof "sachin")
 console.log(typeof age)
+console.log(typeof null) // object
+console.log(typeof undefined) // undefined
