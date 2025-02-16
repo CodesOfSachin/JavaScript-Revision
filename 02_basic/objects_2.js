@@ -17,6 +17,9 @@ const regularUser = {
     }
 }
 
+console.log(regularUser.fullName.userFullName.firstName);
+
+
 const obj1 = {1: "a", 2: "b"}
 const obj2 = {3: "c", 4: "d"}
 const obj4 = {5: "c", 6: "d"}
@@ -50,3 +53,33 @@ console.log(Object.values(tinderUser));
 console.log(Object.entries(tinderUser)); // entries prints keys and their values in a array 
 
 console.log(tinderUser.hasOwnProperty('isLoggedIn')); // this checks if the key or value available in object and return in boolean 
+
+
+const course = {
+    courseName : "JavaScript",
+    price : 1000,
+    courseInstructor : "Hitesh"
+}
+
+//course.courseInstructor;
+
+// Destructuring to acces values faster and efficeiently 
+const {courseInstructor} = course; 
+// we can give custom name in destructuring in this way 
+const {price: rates, courseName: subject} = course;
+console.log(rates, subject);
+
+
+// api data in JSON format which is object
+// {
+//     "name": "Sachin",
+//     "courseName": "JavaScript",
+//     "price": "free-free-free"
+// }
+
+// some JSON data is in array in array there are objects 
+[
+    {},
+    {},
+    {}
+]
