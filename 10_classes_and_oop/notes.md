@@ -14,12 +14,12 @@
 Object literal
 
 - Constructor
-- Prototypes
+- Prototypes or proto_
 - Classes
 - Instances (new, this)
 
 ## 4 Pillars of OOP
-Abstraction
-Encapsulation
-Inheritance
-Polymorphism
+- Abstraction
+- Encapsulation
+- Inheritance
+- Polymorphism
