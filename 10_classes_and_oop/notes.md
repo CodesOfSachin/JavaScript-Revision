@@ -27,5 +27,5 @@ Polymorphism
 # Javascript prototypes
 
 - Behavior of javascript is prototypal
-- Prototype gives us to use  new keybowrd, classes, this keyword and prototypal inheritence or inheritence.
+- Prototype gives us to use  new keybowrd, classes, this keyword and prototypal inheritance or inheritance.
 - this keyword does not work in arrow functions
