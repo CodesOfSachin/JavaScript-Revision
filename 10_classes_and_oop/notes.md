@@ -19,10 +19,10 @@ Object literal
 - Instances (new, this)
 
 ## 4 Pillars of OOP
-Abstraction
-Encapsulation
-Inheritance
-Polymorphism
+- Abstraction
+- Encapsulation
+- Inheritance
+- Polymorphism
 
 # Javascript prototypes
 
