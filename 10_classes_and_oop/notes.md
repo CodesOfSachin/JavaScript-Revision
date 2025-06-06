@@ -23,3 +23,9 @@ Abstraction
 Encapsulation
 Inheritance
 Polymorphism
+
+# Javascript prototypes
+
+- Behavior of javascript is prototypal
+- Prototype gives us to use  new keybowrd, classes, this keyword and prototypal inheritence or inheritence.
+- this keyword does not work in arrow functions
