@@ -23,12 +23,11 @@ Object literal
 - Encapsulation
 - Inheritance
 - Polymorphism
-<<<<<<< HEAD
+
 
 # Javascript prototypes
 
 - Behavior of javascript is prototypal
 - Prototype gives us to use  new keybowrd, classes, this keyword and prototypal inheritance or inheritance.
 - this keyword does not work in arrow functions
-=======
->>>>>>> ce3e34dcd96378943fe0a526caa11fe4b8903682
+
